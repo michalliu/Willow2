@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<FiddlerDS>
+  <Config>
+    <MatchShow Color="Transparent" BackColor="BlueViolet" Type="host" Bold="false" Italic="true" Strikeout="false" />
+    <MatchShow Color="Transparent" BackColor="Orange" Type="rule" Bold="false" Italic="false" Strikeout="false" />
+  </Config>
+  <MatchShow Color="Transparent" BackColor="Cyan" Type="exten" Bold="false" Italic="false" Strikeout="false" />
+  <Other Name="Ingore404" Value="True" />
+</FiddlerDS>

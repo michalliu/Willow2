@@ -1,0 +1,79 @@
+<?xml version="1.0" standalone="yes"?>
+  <xs:schema id="FiddlerDS" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="FiddlerDS" msdata:IsDataSet="true" msdata:Locale="en-US">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="dsProject">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Project" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="ResponseRule" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:attribute name="Enabled" type="xs:boolean" default="false" />
+                          <xs:attribute name="Match" type="xs:string" />
+                          <xs:attribute name="Action" type="xs:string" />
+                          <xs:attribute name="WillowData" type="xs:string" />
+                          <xs:attribute name="ResponseRule_Id" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="1" type="xs:int" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="OverrideHost" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:attribute name="Enabled" type="xs:boolean" default="false" />
+                          <xs:attribute name="Name" type="xs:string" />
+                          <xs:attribute name="IP" type="xs:string" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="Extension" minOccurs="0" maxOccurs="unbounded">
+                        <xs:complexType>
+                          <xs:attribute name="Enabled" type="xs:boolean" default="false" />
+                          <xs:attribute name="Match" type="xs:string" />
+                          <xs:attribute name="Action" type="xs:string" />
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                    <xs:attribute name="Name" type="xs:string" />
+                    <xs:attribute name="Enabled" type="xs:boolean" default="false" />
+					<xs:attribute name="Root" type="xs:string" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+              <xs:attribute name="LastSave" type="xs:string" />
+              <xs:attribute name="FiddlerVersion" type="xs:string" />
+            </xs:complexType>
+          </xs:element>
+		  <xs:element name="Config">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="AddRule" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+                    <xs:attribute name="Type" type="xs:string" default="*" />
+                    <xs:attribute name="FileType" type="xs:string" default="*" />
+                    <xs:attribute name="URL" type="xs:string" />
+                    <xs:attribute name="Path" type="xs:string" />
+                  </xs:complexType>
+                </xs:element>
+				<xs:element name="MatchShow" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+				  <xs:attribute name="Color" type="xs:string" default="Transparent" />
+				  <xs:attribute name="BackColor" type="xs:string" default="Transparent" />
+				  <xs:attribute name="Type" type="xs:string" />
+				  <xs:attribute name="Bold" type="xs:boolean" default="false" />
+				  <xs:attribute name="Italic" type="xs:boolean" default="false" />
+				  <xs:attribute name="Strikeout" type="xs:boolean" default="false" />
+                  </xs:complexType>
+                </xs:element>
+				<xs:element name="Other" minOccurs="0" maxOccurs="unbounded">
+                  <xs:complexType>
+				  <xs:attribute name="Name" type="xs:string" />
+				  <xs:attribute name="Value" type="xs:string" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>

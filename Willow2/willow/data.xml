@@ -1,0 +1,343 @@
+<?xml version="1.0" standalone="yes"?>
+<FiddlerDS>
+  <dsProject LastSave="2011-07-27T20:43:25.6813341+08:00" FiddlerVersion="1.0.0.0">
+    <Project Name="01-host" Enabled="true" Root="">
+      <OverrideHost Enabled="false" Name="yun.qq.com" IP="119.147.9.176" />
+      <OverrideHost Enabled="false" Name="azraelapp.web.qq.com" IP="172.16.49.67" />
+      <OverrideHost Enabled="false" Name="marketadmin.web.qq.com" IP="10.128.1.35" />
+      <OverrideHost Enabled="false" Name="patternhe.qun.qq.com" IP="172.16.63.41" />
+      <OverrideHost Enabled="true" Name="d.web2.qq.com" IP="172.16.217.238" />
+      <OverrideHost Enabled="true" Name="palm.qq.com" IP="58.251.150.63" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.144.48" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.144.49" />
+      <OverrideHost Enabled="false" Name="face1.qun.qq.com face2.qun.qq.com face3.qun.qq.com face4.qun.qq.com face5.qun.qq.com face6.qun.qq.com face7.qun.qq.com face8.qun.qq.com face9.qun.qq.com" IP="172.23.154.18" />
+      <OverrideHost Enabled="false" Name="s.web2.qq.com" IP="172.16.245.66" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.8.146" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.154.18" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.144.47" />
+      <OverrideHost Enabled="false" Name="s.web2.qq.com" IP="172.16.217.238" />
+      <OverrideHost Enabled="false" Name="ipad.web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="58.251.150.63" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.133.0.234" />
+      <OverrideHost Enabled="false" Name="dir.ld2.qq.com" IP="10.6.206.148" />
+      <OverrideHost Enabled="false" Name="game.ld2.qq.com" IP="172.25.40.11" />
+      <OverrideHost Enabled="false" Name="res.ld2.qq.com" IP="172.25.40.4" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.144.46" />
+      <OverrideHost Enabled="false" Name="dev.qq.com up.web2.qq.com cgi.web2.qq.com web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.133.0.233" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.9.178" />
+      <OverrideHost Enabled="false" Name="s.web2.qq.com" IP="10.134.138.241" />
+      <OverrideHost Enabled="true" Name="app_market_admin.oa.com" IP="172.16.49.67" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.9.193" />
+      <OverrideHost Enabled="true" Name="happy.qq.com" IP="172.25.40.73" />
+      <OverrideHost Enabled="true" Name="app.happy.qq.com" IP="10.6.221.98" />
+      <OverrideHost Enabled="true" Name="img.happy.qq.com" IP="172.25.40.73" />
+      <OverrideHost Enabled="false" Name="ui.ptlogin2.qq.com" IP="58.60.14.20" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.9.195" />
+      <OverrideHost Enabled="false" Name="aq.qq.com" IP="172.16.131.68" />
+      <OverrideHost Enabled="false" Name="imgcache.qq.com" IP="172.16.192.88" />
+      <OverrideHost Enabled="false" Name="ptlogin2.qq.com" IP="121.14.91.71" />
+      <OverrideHost Enabled="false" Name="d.web2.qq.com" IP="172.16.217.239" />
+      <OverrideHost Enabled="false" Name="ptlogin2.qq.com" IP="121.14.77.165" />
+      <OverrideHost Enabled="false" Name="ipad.web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="121.14.79.149" />
+      <OverrideHost Enabled="true" Name="webqqtest.qq.com" IP="172.16.236.141" />
+      <OverrideHost Enabled="true" Name="d.web2.qq.com" IP="183.62.125.244" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.138.241" />
+      <OverrideHost Enabled="false" Name="cgi.web2.qq.com" IP="172.16.63.41" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.138.242" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.130.84.247" />
+      <OverrideHost Enabled="false" Name="s.web2.qq.com d.web2.qq.com" IP="183.62.125.244" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="121.14.79.149" />
+      <OverrideHost Enabled="false" Name="web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="172.23.9.195" />
+      <OverrideHost Enabled="true" Name="dev.qq.com" IP="10.133.0.233" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.130.84.246" />
+      <OverrideHost Enabled="false" Name="web2.qq.com web3.qq.com up.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.138.238" />
+      <OverrideHost Enabled="false" Name="web2.qq.com up.web2.qq.com cgi.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.130.84.245" />
+      <OverrideHost Enabled="false" Name="cgi.web2.qq.com cgi.appx.qq.com s.web2.qq.com" IP="172.16.217.238" />
+      <OverrideHost Enabled="false" Name="web2.qq.com web3.qq.com up.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.130.84.248" />
+      <OverrideHost Enabled="false" Name="web2.qq.com web3.qq.com up.web2.qq.com web.qstatic.com 0.web.qstatic.com 1.web.qstatic.com 2.web.qstatic.com 3.web.qstatic.com 4.web.qstatic.com 5.web.qstatic.com 6.web.qstatic.com 7.web.qstatic.com 8.web.qstatic.com 9.web.qstatic.com" IP="10.134.138.239" />
+    </Project>
+    <Project Name="02-server" Enabled="true" Root="">
+      <ResponseRule Enabled="true" Match="http://pingfore.qq.com/" Action="200_SimpleHTML.dat" WillowData="" ResponseRule_Id="1093" />
+      <ResponseRule Enabled="true" Match="http://tj.qstatic.com/getlog" Action="200_SimpleHTML.dat" WillowData="" ResponseRule_Id="1094" />
+      <ResponseRule Enabled="true" Match="http://isdspeed.qq.com/cgi-bin/r.cgi" Action="200_SimpleHTML.dat" WillowData="" ResponseRule_Id="1095" />
+      <ResponseRule Enabled="true" Match="http://web2.qq.com/web2/get_msg_tip" Action="200_FiddlerGif.dat" WillowData="" ResponseRule_Id="1124" />
+      <ResponseRule Enabled="false" Match="http://cgi.web2.qq.com/keycgi/qqweb/market/getappinfo.do" Action="E:\webqq\dev\server-site\getappinfo" WillowData="" ResponseRule_Id="1640" />
+      <ResponseRule Enabled="false" Match="http://happy.qq.com/webqq/qqgame.html" Action="E:\webqq\dev\server-site\api.html" WillowData="" ResponseRule_Id="1831" />
+      <ResponseRule Enabled="false" Match="http://happy.qq.com/webqq/qqgame.html" Action="E:\webqq\alloy_qgame\static\app.demo.html" WillowData="" ResponseRule_Id="1831" />
+      <ResponseRule Enabled="false" Match="http://ui.ptlogin2.qq.com/cgi-bin/login?" Action="F:\pt.html" WillowData="" ResponseRule_Id="2023" />
+      <ResponseRule Enabled="false" Match="http://imgcache.qq.com/ptlogin/ac/v9/js/comm.js" Action="E:\webqq\dev\qqweb-qqdesktop2\untitled\style_5_s\comm.js" WillowData="" ResponseRule_Id="2215" />
+      <ResponseRule Enabled="false" Match="http://s.web2.qq.com/api/search_qq_by_term" Action="E:\webqq\dev\server-site\search_qq_by_term2" WillowData="" ResponseRule_Id="2407" />
+      <ResponseRule Enabled="false" Match="http://happy.qq.com/webqq/qqgame2.html" Action="E:\webqq\dev\server-site\api2.html" WillowData="" ResponseRule_Id="1831" />
+      <ResponseRule Enabled="false" Match="http://airdownload.adobe.com/air/browserapi/air.swf" Action="200_FiddlerGif.dat" WillowData="" ResponseRule_Id="2874" />
+      <ResponseRule Enabled="false" Match="web.qstatic.com/webqqpic/" Action="test.com/" WillowData="" ResponseRule_Id="3085" />
+      <ResponseRule Enabled="true" Match="http://res.xb.qq.com/webqq.html" Action="F:\webqq.html" WillowData="" ResponseRule_Id="3299" />
+      <ResponseRule Enabled="true" Match="http://happy.qq.com/webqq/webddz_flash.html" Action="E:\webqq\dev\qqweb-qqgame\webqq_dodizhu.html" WillowData="" ResponseRule_Id="3526" />
+      <ResponseRule Enabled="false" Match="channel/poll2" Action="404_Plain.dat" WillowData="" ResponseRule_Id="3922" />
+      <ResponseRule Enabled="false" Match="/channel/login2" Action="404_Plain.dat" WillowData="" ResponseRule_Id="3923" />
+      <ResponseRule Enabled="false" Match="/channel/login2" Action="E:\webqq\dev\server-site\login2" WillowData="" ResponseRule_Id="3923" />
+      <ResponseRule Enabled="false" Match="/channel/login2" Action="E:\webqq\dev\server-site\login2.pt" WillowData="" ResponseRule_Id="3923" />
+      <ResponseRule Enabled="true" Match="cgi/top/get_desk" Action="E:\webqq\dev\server-site\get_desk" WillowData="" ResponseRule_Id="4172" />
+      <Extension Enabled="true" />
+    </Project>
+    <Project Name="04-qqweb-rehorn-cloud" Enabled="true" Root="E:\webqq\rehorn_cloud\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="false" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".qq.com/app/car/" Action=".\private\app\car\" WillowData="" ResponseRule_Id="2214" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".qq.com/swf/" Action=".\static\swf\" WillowData="" ResponseRule_Id="4169" />
+    </Project>
+    <Project Name="03-qqweb-main" Enabled="false" Root="E:\webqq\alloy_main\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="appmarket.total.js" Action=".\private\tools\js\appmarket.total.js" WillowData=".\private\tools\appmarket.total.js.qzmin" ResponseRule_Id="1360" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/app/tuangoumap/" Action=".\private\app\tuangoumap\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="/app/tuangoumap/" Action=".\private\app\tuangoumap\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="/module/appmarket/appmarket.html" Action=".\private\module\appmarket\appmarket.html" WillowData="" ResponseRule_Id="1504" />
+      <ResponseRule Enabled="true" Match="http://web.qstatic.com/jsapi/alloy.api.js" Action=".\private\tools\jsapi\alloy.api.js" WillowData=".\private\tools\alloy.api.js.qzmin" ResponseRule_Id="1840" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/6/main.js" Action=".\private\app\webbrowser\qqweb.app.webbrowser.js" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/js/qqweb.util.loclist.js" Action=".\private\js\qqweb.util.loclist.js" WillowData="" ResponseRule_Id="1499" />
+      <ResponseRule Enabled="true" Match="http://web2.qq.com/swf/fflist.swf" Action=".\static\swf\fflist.swf" WillowData="" ResponseRule_Id="2603" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/app/" Action=".\private\app\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".qq.com/swf/" Action=".\static\swf\" WillowData="" ResponseRule_Id="4169" />
+    </Project>
+    <Project Name="05-qqweb-qqdesktop5" Enabled="false" Root="E:\webqq\alloy_qqdesktop5\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="appmarket.total.js" Action=".\private\tools\js\appmarket.total.js" WillowData=".\private\tools\appmarket.total.js.qzmin" ResponseRule_Id="1360" />
+    </Project>
+    <Project Name="06-qqweb-alloy-file-contact2" Enabled="false" Root="E:\webqq\alloy_file_contact2\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="false" Match="http://cgi.web2.qq.com/proxy.html" Action=".\static\proxy.html" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="false" Match="http://up.web2.qq.com/proxy.html" Action=".\static\proxy.html" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="appmarket.total.js" Action=".\private\tools\js\appmarket.total.js" WillowData=".\private\tools\appmarket.total.js.qzmin" ResponseRule_Id="1360" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/app/tuangoumap/" Action=".\private\app\tuangoumap\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="/app/tuangoumap/" Action=".\private\app\tuangoumap\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="/module/appmarket/appmarket.html" Action=".\private\module\appmarket\appmarket.html" WillowData="" ResponseRule_Id="1504" />
+      <ResponseRule Enabled="true" Match="web2.qq.com/index.html" Action=".\private\index.html" WillowData="" ResponseRule_Id="3801" />
+    </Project>
+    <Project Name="07-qqweb-rehorn_loginfix" Enabled="false" Root="E:\webqq\rehorn_loginfix\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="appmarket.total.js" Action=".\private\tools\js\appmarket.total.js" WillowData=".\private\tools\appmarket.total.js.qzmin" ResponseRule_Id="1360" />
+      <ResponseRule Enabled="true" Match="/module/appmarket/appmarket.html" Action=".\private\module\appmarket\appmarket.html" WillowData="" ResponseRule_Id="1504" />
+      <ResponseRule Enabled="false" Match="http://web2.qq.com/custom/" Action="E:\webqq\dev\qqweb-themerefactor\custom\" WillowData="" ResponseRule_Id="2741" />
+      <ResponseRule Enabled="true" Match="http://web2.qq.com/app.demo.layout.html" Action=".\static\app.demo.layout.html" WillowData="" ResponseRule_Id="2799" />
+      <ResponseRule Enabled="true" Match="http://web.qstatic.com/jsapi/alloy.api.js" Action=".\private\tools\jsapi\alloy.api.js" WillowData=".\private\tools\alloy.api.js.qzmin" ResponseRule_Id="1840" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/app/" Action=".\private\app\" WillowData="" ResponseRule_Id="29" />
+    </Project>
+    <Project Name="08-qqweb-astro2" Enabled="false" Root="E:\webqq\rehorn_astro2\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match="http://web2.qq.com/index.html" Action=".\private\index.html" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="http://web2.qq.com/domain.html" Action=".\static\domain.html" WillowData="" ResponseRule_Id="1228" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="appmarket.total.js" Action=".\private\tools\js\appmarket.total.js" WillowData=".\private\tools\appmarket.total.js.qzmin" ResponseRule_Id="1360" />
+      <ResponseRule Enabled="true" Match="/module/appmarket/appmarket.html" Action=".\private\module\appmarket\appmarket.html" WillowData="" ResponseRule_Id="1504" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="/app/astro/" Action=".\private\app\astro\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match="http://web.qstatic.com/jsapi/alloy.api.js" Action=".\private\tools\jsapi\alloy.api.js" WillowData=".\private\tools\alloy.api.js.qzmin" ResponseRule_Id="1840" />
+      <ResponseRule Enabled="true" Match="/app/astro/" Action=".\static\app\astro\" WillowData="" ResponseRule_Id="1170" />
+    </Project>
+    <Project Name="09-webtop-screencapture2" Enabled="false" Root="E:\webqq\webtop_screencapture2\">
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/module/" Action=".\private\module\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/extend/" Action=".\private\extend\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/" Action=".\static\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/scene/" Action=".\private\scene\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match="jet.all.js" Action=".\private\tools\js\jet.all.js" WillowData=".\private\tools\jet.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="jet.all.css" Action=".\private\tools\style\jet.all.css" WillowData=".\private\tools\jet.all.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.all.js" Action=".\private\tools\js\qqweb.all.js" WillowData=".\private\tools\qqweb.all.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.css" Action=".\private\tools\style\qqweb.main.css" WillowData=".\private\tools\qqweb.main.css.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.system.module.js" Action=".\private\tools\js\qqweb.system.module.js" WillowData=".\private\tools\qqweb.system.module.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.all.js" Action=".\private\tools\js\eqq.all.js" WillowData=".\private\tools\eqq.all.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/eqq.chat.js" Action=".\private\tools\js\eqq.chat.js" WillowData=".\private\tools\eqq.chat.js.qzmin" ResponseRule_Id="1167" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/1/" Action=".\private\app\messagebox\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/6/" Action=".\private\app\webbrowser\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/7/" Action=".\private\app\feed\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/9/" Action=".\private\app\minigames\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/10/" Action=".\private\app\memo\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/16/" Action=".\private\app\qzone\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/18/" Action=".\private\app\weather\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/19/" Action=".\private\app\soso\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/20/" Action=".\private\app\clock\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/" Action=".\private\module\eqq\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match=".web.qstatic.com/webqqpic/pubapps/0/56/" Action=".\private\app\musicwidget\" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/50/style.css" Action=".\private\style\eqq.main.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="false" Match="http://web2.qq.com/index.html" Action=".\private\index.html" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="false" Match="http://web2.qq.com/domain.html" Action=".\static\domain.html" WillowData="" ResponseRule_Id="1228" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/activity/" Action=".\private\activity\" WillowData="" ResponseRule_Id="29" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/6/main.js" Action=".\private\app\webbrowser\qqweb.app.webbrowser.js" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/pubapps/0/6/style.css" Action=".\private\app\webbrowser\qqweb.app.webbrowser.css" WillowData="" ResponseRule_Id="1170" />
+      <ResponseRule Enabled="true" Match=".web.qstatic.com/webqqpic/js/qqweb.util.loclist.js" Action=".\private\js\qqweb.util.loclist.js" WillowData="" ResponseRule_Id="1499" />
+      <ResponseRule Enabled="true" Match="qqweb.part1.js" Action=".\private\tools\js\qqweb.part1.js" WillowData=".\private\tools\qqweb.part1.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.part2.js" Action=".\private\tools\js\qqweb.part2.js" WillowData=".\private\tools\qqweb.part2.js.qzmin" ResponseRule_Id="14" />
+      <ResponseRule Enabled="true" Match="qqweb.main.2.css" Action=".\private\tools\style\qqweb.main.2.css" WillowData=".\private\tools\qqweb.main.2.css.qzmin" ResponseRule_Id="14" />
+    </Project>
+    <Project Name="03-qqweb-api" Enabled="true" Root="E:\webqq\rehorn_api4\">
+      <ResponseRule Enabled="true" Match="/app.demo.html" Action=".\static\app.demo.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/app.demo.window.html" Action=".\static\app.demo.window.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/app.demo.widget.html" Action=".\static\app.demo.widget.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/jx.demo.tooltip.html" Action=".\static\jx.demo.tooltip.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/app/myapp/index.html" Action=".\static\app\myapp\index.html" WillowData="" ResponseRule_Id="3747" />
+      <ResponseRule Enabled="true" Match="/jx.ui.js" Action=".\private\js\jet.ui.js" WillowData="" ResponseRule_Id="3754" />
+      <ResponseRule Enabled="true" Match="/jx.ui.pagination.js" Action=".\private\js\jet.ui.pagination.js" WillowData="" ResponseRule_Id="3754" />
+      <ResponseRule Enabled="true" Match="/jx.ui.tooltip.js" Action=".\private\js\jx.ui.tooltip.js" WillowData="" ResponseRule_Id="3754" />
+      <ResponseRule Enabled="true" Match="/jx.demo.index.html" Action=".\static\jx.demo.index.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/jx.fx.js" Action=".\private\js\jet.fx.js" WillowData="" ResponseRule_Id="3754" />
+      <ResponseRule Enabled="true" Match="/app.demo.component.html" Action=".\static\app.demo.component.html" WillowData="" ResponseRule_Id="3513" />
+      <ResponseRule Enabled="true" Match="/jx.demo.js" Action=".\static\jx\jx.demo.js" WillowData="" ResponseRule_Id="3754" />
+      <ResponseRule Enabled="true" Match="/jx.demo.css" Action=".\private\style\jx.demo.css" WillowData="" ResponseRule_Id="3763" />
+      <ResponseRule Enabled="true" Match="/jx.demo.pagination.html" Action=".\static\jx.demo.pagination.html" WillowData="" ResponseRule_Id="3764" />
+      <ResponseRule Enabled="true" Match="/jx.demo.scrollbar.html" Action=".\static\jx.demo.scrollbar.html" WillowData="" ResponseRule_Id="3764" />
+      <ResponseRule Enabled="true" Match="/jx.ui.scrollbar.js" Action=".\private\js\jx.ui.scrollbar.js" WillowData="" ResponseRule_Id="3767" />
+      <ResponseRule Enabled="true" Match="/jx.demo.loading.html" Action=".\static\jx.demo.loading.html" WillowData="" ResponseRule_Id="3764" />
+      <ResponseRule Enabled="true" Match="/jx.ui.loading.js" Action=".\private\js\jx.ui.loading.js" WillowData="" ResponseRule_Id="3767" />
+      <ResponseRule Enabled="true" Match="http://0.web.qstatic.com/webqqpic/jx/style/images/loading-bar.gif" Action=".\static\jx\style\images\loading-bar.gif" WillowData="" ResponseRule_Id="3772" />
+      <ResponseRule Enabled="true" Match="/jx/jxdocs/" Action=".\static\jx\jxdocs\" WillowData="" ResponseRule_Id="3775" />
+      <ResponseRule Enabled="true" Match="/app.demo.css" Action=".\private\style\app.demo.css" WillowData="" ResponseRule_Id="3800" />
+    </Project>
+  </dsProject>
+</FiddlerDS>
